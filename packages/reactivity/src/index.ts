@@ -1,2 +1,3 @@
-import { isObject } from '@vue/reactivity'
-isObject('zhangwei')
+import { isObject } from '@vue/shared'
+
+console.log(isObject({}))

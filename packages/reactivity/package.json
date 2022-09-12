@@ -6,9 +6,9 @@
   "buildOptions": {
     "name": "VueReactivity",
     "formats": [
-      "global", // 浏览器
-      "cjs", // node
-      "esm-bundle" // esmodule
+      "global",
+      "cjs",
+      "esm-bundle"
     ]
   },
   "scripts": {
